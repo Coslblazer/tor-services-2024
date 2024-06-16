@@ -2,7 +2,7 @@
 
 # Welcome to Tor Services 2024
 
-<img src="https://github.com/Coslblazer/tor-services-2024/blob/main/link%20Image.png">
+<img src="https://github.com/Coslblazer/tor-services-2024/blob/main/link%20image.png">
 
 > Embark on an exploration through a carefully selected collection of verified .onion URLs, revealing a diverse range of hidden Onion Services nestled within the mysterious depths of the Tor Services 2024.
 
